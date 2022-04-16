@@ -7,7 +7,7 @@ To start work with mortgage calculator, you need to clone this repository: <br>
 <i>git clone https://github.com/Tetiana-25/mortgage_calculator</i> <br>
 <br>
 Then you need to open file <i>index.html</i> <br><br>
-When you first time open this file, table in WEB SQL will created. <br><br>
+When you first time open this file, table in WEB SQL will created. And you need to comment line <i>createNewTableDB();</i> in the "script.js" file <br><br>
 
 <h2>Change table name: </h2><br>
 1) Open file <i>script.js</i>. <br>
